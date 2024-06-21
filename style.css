@@ -2,5 +2,22 @@
     color: red;
     font-size: 20px;
     font-weight: bold;
+    /* text-align: center; */
+}
+/* p{
+
+} */
+
+.userWon{
+    color: green;
+    background-color: yellow;
+    border: 1px solid red;
+    text-align: center;
+}
+
+.computerWon{
+    color: red;
+    background-color: black;
+    border: 1px solid green;
     text-align: center;
 }
